@@ -18,5 +18,4 @@ Menggunakan sistem skor, nyawa (buku), dan progres stage.
 
 ## Catatan
 Source code web admin tidak dipublikasikan sepenuhnya
-karena menggunakan template pihak ketiga dan digunakan
-oleh institusi pendidikan.
+karena menggunakan template pihak ketiga.
