@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 7b0634a9873505142a2426bf24ced415
+  - enabled: 1
+    path: Assets/Scenes/BootScene.unity
+    guid: bf1068138fb668f4e819ae20da423b9c
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 45e9aada043224e44bbbe238947df734
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e4771e4ab293a394ba0aaca8a3bf9d4b
+  - enabled: 1
+    path: Assets/Scenes/Stage.unity
+    guid: d72e8066863e14b49b1df602412c9fa6
+  - enabled: 1
+    path: Assets/Scenes/PilihanLvl.unity
+    guid: 30c1c0d1dea4ec145a89b5954a894443
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: c6c595dab5e5d394284f24641c3d8fbb
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardScene.unity
+    guid: 5e18d1c204c51292587a0e1f443952a5
+  - enabled: 1
+    path: Assets/Scenes/InformasiScene.unity
+    guid: bc1b976aeb706c8ffa33505eaf142ec6
+  - enabled: 1
+    path: Assets/Scenes/MenuMateri.unity
+    guid: d269510d02a7c33ee95b23b702e30243
+  - enabled: 1
+    path: Assets/Scenes/ListeningScene.unity
+    guid: 10f9c7486fc5283468d4763fe9a25807
+  - enabled: 1
+    path: Assets/Scenes/Reading.unity
+    guid: 389a389139544b001b6da4d4f4f1b8c9
+  - enabled: 1
+    path: Assets/Scenes/ListMateri.unity
+    guid: 059f80d93b5a233659daced7dff82a90
+  - enabled: 1
+    path: Assets/Scenes/History.unity
+    guid: 70bc43002bb86ebef921c6eaa936a436
+  m_configObjects: {}
